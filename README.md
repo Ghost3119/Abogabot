@@ -15,3 +15,6 @@ Nuestra tarea es hacer modelar esta pagina web que tenga dos perspectivas. La pr
 ## Buyer persona
 
 ![./buyer persona/buyer_persona.png](https://github.com/Ghost3119/Abogabot/blob/c6112d4da301610e67ec569d50d50fa9fee7fe37/buyer%20persona/buyer_persona.png)
+
+## Publico objetivo
+
