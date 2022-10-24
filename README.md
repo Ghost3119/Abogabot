@@ -18,3 +18,4 @@ Nuestra tarea es hacer modelar esta pagina web que tenga dos perspectivas. La pr
 
 ## Publico objetivo
 
+![](https://github.com/Ghost3119/Abogabot/blob/57ca3291115fff0b45487882d5265557659fd866/publico_objetivo/Target%20Audience.jpg)
