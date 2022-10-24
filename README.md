@@ -13,4 +13,4 @@ Con lo anterios dicho requerimos una pagina web que pueda suplir la necesidad de
 Nuestra tarea es hacer modelar esta pagina web que tenga dos perspectivas. La primera que es la del cliente y la segunda la del administrador que se pueda visualizar tanto como en dispositvos moviles y computadores. Los clientes puedan acceder a los servicios de manera de formulario y recibir notificaciones. El administrador podra dar seguimiento a cada uno de los casos de sus clientes asi como podra ver sus ingresos en dicha pagina.
 
 ## Buyer persona
-![Buyer Persona](buyer persona/buyer_persona.png)
+![Buyer Persona](./buyer persona/buyer_persona.png)
