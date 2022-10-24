@@ -22,6 +22,8 @@ Nuestra tarea es hacer modelar esta pagina web que tenga dos perspectivas. La pr
 
 ## Diagrama y modelo de negocio
 
+![](https://github.com/Ghost3119/Abogabot/blob/4d635768f12102ba26e3c1ec2065b42b394bb9c6/Diagrama_modelo_negocio/Flowchart.jpg)
+
 ## Desktop UX
 
 ## Mobile UX
