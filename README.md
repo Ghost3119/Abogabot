@@ -28,7 +28,7 @@ Nuestra tarea es hacer modelar esta pagina web que tenga dos perspectivas. La pr
 
 ## Mobile UX
 
-## UI Desktop
+## Desktop UI
 
 ## Mobile UI
 
