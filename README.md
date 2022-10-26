@@ -26,11 +26,11 @@ Nuestra tarea es hacer modelar esta pagina web que tenga dos perspectivas. La pr
 
 ## Desktop UX
 
-
+![](https://github.com/Ghost3119/Abogabot/blob/0d4cd7c5f93c7f3375f49df36808955e7638145d/UX/Abogabot_Desktop_UX.png)
 
 ## Mobile UX
 
-
+![](https://github.com/Ghost3119/Abogabot/blob/0d4cd7c5f93c7f3375f49df36808955e7638145d/UX/Abogabot%20movil%20UX.png)
 
 ## Desktop UI
 
