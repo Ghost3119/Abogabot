@@ -34,5 +34,12 @@ Nuestra tarea es hacer modelar esta pagina web que tenga dos perspectivas. La pr
 
 ## Desktop UI
 
+![](https://github.com/Ghost3119/Abogabot/blob/d5017ceac440bd38c3eba7dfb8cb972dc1483690/UI/Abogabot_UI_Inicio_sesion.png)
+![](https://github.com/Ghost3119/Abogabot/blob/d5017ceac440bd38c3eba7dfb8cb972dc1483690/UI/Abogabot_UI_Crear_Cuenta.png)
+![](https://github.com/Ghost3119/Abogabot/blob/d5017ceac440bd38c3eba7dfb8cb972dc1483690/UI/Abogabot_UI_Formulario.png)
+![](https://github.com/Ghost3119/Abogabot/blob/d5017ceac440bd38c3eba7dfb8cb972dc1483690/UI/Abogabot_UI_Proceso_Pago.png)
+![](https://github.com/Ghost3119/Abogabot/blob/d5017ceac440bd38c3eba7dfb8cb972dc1483690/UI/Abogabot_UI_Seguimiento_Cliente.png)
+![](https://github.com/Ghost3119/Abogabot/blob/d5017ceac440bd38c3eba7dfb8cb972dc1483690/UI/Abogabot_UI_Admin.png)
+
 ## Mobile UI
 
